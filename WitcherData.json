@@ -1,0 +1,39 @@
+{
+    "WitcherData" : [
+        {
+            "title": "The Witcher (game)",
+            "posterLink": "https://i.ebayimg.com/images/g/9~sAAOSw2ptb5xcy/s-l1600.jpg",
+            "description":"The Witcher follows the story of Geralt of Rivia, a witcher: a traveling monster hunter for hire, gifted with unnatural powers. Taking place in a fictional medieval world, the game implements detailed visuals. The natural light during various phases of the day is realistically altered, and the day and night transitions serve to enrich the game's ambiance. The weather can dynamically change from a light drizzle to a dark, stormy downpour accompanied by thunder and lightning, and the NPCs react to the rain by hiding under roofs trying to get out of the rain.",
+            "developer": "CD Projekt RED",
+            "platforms": [
+                "Microsoft Windows",  
+                "OS X"
+            ]
+        },
+        {
+            "title": "The Witcher 2: Assassins of Kings",
+            "posterLink": "https://cdn.shopify.com/s/files/1/0942/1228/products/0j0cWHq.jpeg?v=1439848515",
+            "description":"The Witcher 2: Assassins of Kings is a sequel to The Witcher, developed by CD Projekt RED and released on May 17, 2011. Like the original game, it is set after the events of Andrzej Sapkowski's The Witcher series of novels on which the games are based.",
+            "developer": "CD Projekt RED",
+            "platforms": [
+                "Microsoft Windows", 
+                "Xbox 360",
+                "Linux"
+            ]
+        },
+        {
+            "title": "The Witcher 3: Wild Hunt",
+            "posterLink": "https://store-images.s-microsoft.com/image/apps.28990.69531514236615003.8f0d03d6-6311-4c21-a151-834503c2901a.d629260e-2bc4-4588-950c-f278cbc22a64",
+            "description":"The Witcher 3: Wild Hunt is the third and final installment in the series of games developed by CD Projekt RED featuring the witcher Geralt of Rivia. The game was originally scheduled for release in late 2014, then pushed back to 24 February 2015, and finally released on 19 May 2015. During the first two weeks since release it had sold more than 4 million copies worldwide, more than doubling the total sales of its predecessor, The Witcher 2: Assassins of Kings.Unlike the previous games, The Witcher 3 is set in a multi-region open world, featuring over 100 hours of content. Several early articles mentioned that the developers planned to have an open world similar to that of Skyrim, but 20% larger. The developers were quick to point out that while there was much to appreciate in Bethesda's open world concept, they were also making an effort not to repeat what they perceived as the flaws in-game. As with earlier games, the consequences of Geralt's actions will impact how the narrative progresses. The game has been built using the new REDengine 3 and was designed with player feedback from fans of previous Witcher games in mind.",
+            "developer": "CD Projekt RED",
+            "platforms": [
+                "Microsoft Windows",
+                "PlayStation 4",
+                "Xbox One",
+                "Nintendo Switch",
+                "PlayStation 5",
+                "Xbox Series X"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Grand Theft Auto",
+        "posterLink": "https://static.wikia.nocookie.net/gtawiki/images/8/80/GTA1_Box_Art.jpg/revision/latest/scale-to-width-down/350?cb=20190316090152",
+        "developer": "DMA DesignTarantula Studios",
+        "platforms": [
+            "PlayStation",
+            "Game Boy Color",
+            "GameCube"
+        ],
+        "description": "Grand Theft Auto, also referred to as Grand Theft Auto 1 in order to differentiate between the original game and the series' individual titles, is the first game in the Grand Theft Auto series, released on PlayStation, PC and later on Game Boy Color. Grand Theft Auto: London 1969 was made as an expansion pack for GTA, and Grand Theft Auto: London 1961 was in turn an expansion pack for London 1969. Both of these games require the original GTA disc to work. The project was originally named as Race'n'Chase."
+    },
+    {
+        "title": "Grand Theft Auto 2",
+        "posterLink": "https://static.wikia.nocookie.net/gtawiki/images/4/40/GTA2_Box_Art.jpg/revision/latest/scale-to-width-down/350?cb=20060731005707",
+        "developer": "DMA DesignTarantula Studios",
+        "platforms": [
+            "PlayStation",
+            "Dreamcast",
+            "Game Boy Color",
+            "GameCube"
+        ],
+        "description": "Grand Theft Auto 2, or GTA 2, is the second major installment in the Grand Theft Auto series. It was released North America on October 22, 1999, by developer Rockstar North (then known as DMA Design), for the PC and PlayStation. A version for the Dreamcast console was made available, which included PC features omitted from the PlayStation version, and later a toned-down version for Game Boy Color. Upon release, GTA 2 was met with mixed reaction, but was a commercial success compared to the previous title in the series. On the side of some covers of the PlayStation version, the title is styled as 'GTa2'"
+    },
+    {
+        "title": "Grand Theft Auto: Vice City",
+        "posterLink": "https://static.wikia.nocookie.net/gtawiki/images/3/36/GTA_Vice_City_Box_Art.jpg/revision/latest/scale-to-width-down/350?cb=20080816125146",
+        "developer": "Rockstar North",
+        "platforms": [
+            "PlayStation 3",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox",
+            "Personal Computer",
+            "iOS",
+            "Android"
+        ],
+        "description": "GTA Vice City is set in Vice City, Florida, in 1986, and concerns the exploits of protagonist Tommy Vercetti as he rises to become Vice City's major criminal power. The game's events follow on from Grand Theft Auto: Vice City Stories. Designed by Rockstar North and published by Rockstar Games, it debuted in North America on October 27, 2002 for PlayStation 2 and quickly became the best-selling video game of the year. Following this success, GTA Vice City saw releases in Europe, Australia and Japan, and became available on PC and Xbox. Later, Rockstar Vienna packaged the game with its predecessor, GTA III, and sold it as the Grand Theft Auto: Double Pack for Xbox, and finally it debuted for iOS and Android December 6, 2012 as a celebration of its 10-year anniversary. As of April 2015, GTA Vice City is the fourth best-selling PlayStation 2 game of all time in the United States. GTA Vice City also appeared on the Japanese magazine Famitsu's readers' list of 100 all-time favorite videogames in 2006. It uses a tweaked version of the Renderware game engine used by GTA III, and similarly presents a huge cityscape, fully populated with buildings (from hotels to skyscrapers), vehicles (cars, motorcycles, boats, helicopters, and planes) and people."
+    },
+    {
+        "title": "Grand Theft Auto III",
+        "posterLink": "https://static.wikia.nocookie.net/gtawiki/images/f/f6/GTA3_Box_Art.jpg/revision/latest/scale-to-width-down/350?cb=20200723205441",
+        "developer": "DMA Design/Rockstar NorthRockstar Vienna",
+        "platforms": [
+            "PlayStation 3",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox",
+            "Personal Computer",
+            "iOS Devices",
+            "Android Devices"
+        ],
+        "description": "Grand Theft Auto III (also shortened into GTA III or GTA 3) is a 2001 action-adventure videogame developed by Rockstar North (then known as DMA Design) and published by Rockstar Games. It was originally released for the PlayStation 2 console, but also saw ports for the PC and Xbox. Set in the fictional Liberty City in 2001, Grand Theft Auto III begins a new continuity separated from its predecessors. The game's narrative follows the adventures of Claude, a silent criminal who was betrayed by his girlfriend Catalina during a bank heist. Claude begins to work for different factions in the crime-riddled Liberty City, including the Mafia, Yakuza and corrupted figures. Set in an open-world environment, Grand Theft Auto III is the first game in the series to be presented in a fully 3D world, shifting away from the top-down perspective that characterized previous games in the franchise. Development was handled by DMA Design, and it was the final game developed by the company before its rename into Rockstar North. Grand Theft Auto III was universally acclaimed upon its release in October 2001. Critics praised the game for its presentation, game design, freedom, sound design and ambition, though it was a subject of controversy due to its violent nature. Multiple publications deemed it a revolutionary title for its advancements in game design and open-ended gameplay, and it was awarded a variety of end-year accolades. A commercial success, GTA 3 sold over 14 million copies. In 2011, the game was re-released on iOS and Android devices for its 10-year anniversary under the title Grand Theft Auto: 10 Year Anniversary Edition. It was met with positive responses, with gaming publications praising its visuals, though criticism was directed at the port's controls."
+    },
+    {
+        "title": "Grand Theft Auto: San Andreas",
+        "posterLink": "https://static.wikia.nocookie.net/gtawiki/images/9/92/GTA_San_Andreas_Box_Art.jpg/revision/latest/scale-to-width-down/350?cb=20090429021856",
+        "developer": "Rockstar North",
+        "platforms": [
+            "PlayStation 3",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox",
+            "Xbox 360",
+            "Xbox One",
+            "Xbox Series X",
+            "PC",
+            "Apple Macintosh",
+            "iOS",
+            "Android"
+        ],
+        "description": "Grand Theft Auto: San Andreas is a Rockstar North-developed video game, and is the seventh title in the Grand Theft Auto series. It is the sequel to Grand Theft Auto: Vice City and the prequel to Grand Theft Auto: Liberty City Stories and Grand Theft Auto III. It was released on the same date as Grand Theft Auto Advance. GTA San Andreas is set in the fictional state of San Andreas. By far the largest and most complex playing field of any 3D Universe game, San Andreas consists of three fully-realized cities: Los Santos, San Fierro and Las Venturas, and includes vast expanses of countryside, forests, a desert, and even a mountain and many hills. The game is centered around the return of Carl Johnson (also known as CJ) to his gang (the Grove Street Families), and their subsequent return to power."
+    },
+    {
+        "title": "Grand Theft Auto IV",
+        "posterLink": "https://static.wikia.nocookie.net/gtawiki/images/4/44/GTAIV-Boxart.jpg/revision/latest/scale-to-width-down/350?cb=20071128223330",
+        "developer": "Rockstar NorthRockstar Toronto",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X",
+            "PlayStation 3",
+            "PlayStation 4",
+            "PC"
+        ],
+        "description": "Grand Theft Auto IV (also known as GTA IV or GTA 4) is the eleventh title in the Grand Theft Auto series. The game was developed by Rockstar North and was published and released by Rockstar Games for the Xbox 360, PlayStation 3, and PC. The Xbox 360 and PS3 versions were released worldwide to widespread hype on April 29, 2008. GTA IV has subsequently been awarded the Gaming World Record of the Most Successful Entertainment Launch of All Time, and has received numerous other awards and accolades. The PC version was released on December 3, 2008. GTA IV and Grand Theft Auto: Episodes from Liberty City were released for Xbox One via backwards compatibility on February 9, 2017."
+    },
+    {
+        "title": "Grand Theft Auto V",
+        "posterLink": "https://static.wikia.nocookie.net/gtawiki/images/7/76/CoverArt-GTAV.png/revision/latest/scale-to-width-down/350?cb=20130826184215",
+        "developer": "Rockstar North",
+        "platforms": [
+            "Xbox One",
+            "Xbox Series X",
+            "PlayStation 3",
+            "PlayStation 4",
+            "PlayStation 5",
+            "PC"
+        ],
+        "description": "Grand Theft Auto V (also known as Grand Theft Auto Five, GTA 5, GTA V, or GTAV) is a video game developed by Rockstar North. It is the fifteenth installment in the Grand Theft Auto series and the successor of Grand Theft Auto IV. The original edition was released on September 17th, 2013 for the Xbox 360 and PlayStation 3. The Xbox One and PlayStation 4 versions were released on November 18th, 2014, and was later released on April 14th, 2015 for the PC. A further enhanced version for the PlayStation 5 and Xbox Series X was announced in 2020, and is expected to release in fall of 2021. The original edition was announced on October 25th, 2011; the game's first trailer[3] was released on November 2nd, 2011, at 4:00 PM GMT. The game was initially slated for a Spring 2013 release and there were even posters printed saying this but was delayed until September 17th the same year. Then, on July 15th, 2013, Rockstar announced the Japanese release date for the game: October 10th, 2013, almost a month after it was released in the Western world.[4] The enhanced edition was announced on June 9th, 2014, with pre-orders made available on June 10. Grand Theft Auto V is set circa 2013 in the city of Los Santos and its surrounding areas and tells the stories of three protagonists: Michael De Santa, Franklin Clinton, and Trevor Philips. It takes place about five years after the events of Grand Theft Auto IV, and four years after the events of Grand Theft Auto: Chinatown Wars. As one of the most awaited video game titles to be released in 2013, the game was widely anticipated prior to its release. Grand Theft Auto V was released to universal acclaim, holding scores of 96 and above on MetaCritic and GameRankings, as well as receiving perfect scores from over 30 reviewers. The game sold 11,210,000 copies and grossed $800,000,000 on its first day of release, setting many records, and eventually making $1,000,000,000 within 3 days of the game's release."
+    }
+]

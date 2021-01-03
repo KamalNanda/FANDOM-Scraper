@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Assassin's Creed",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/6/6a/Accover.jpg/revision/latest/scale-to-width-down/350?cb=20191130041242",
+        "developer": "Ubisoft Montreal",
+        "platforms": [
+            "PlayStation 3",
+            "Xbox 360",
+            "Microsoft Windows"
+        ]
+    },
+    {
+        "title": "Assassin's Creed II",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/0/09/AC2coverHighRes.jpg/revision/latest/scale-to-width-down/350?cb=20120706023159",
+        "developer": "",
+        "platforms": [
+            "PlayStation 3",
+            "Xbox 360",
+            "Microsoft Windows",
+            "Mac OS X",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "title": "Assassin's Creed: Brotherhood",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/2/2a/Assassins_Creed_brotherhood_cover.jpg/revision/latest/scale-to-width-down/350?cb=20200128141604",
+        "developer": "",
+        "platforms": [
+            "PlayStation 3",
+            "Xbox 360",
+            "Microsoft Windows",
+            "Mac OS X",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "title": "Assassin's Creed: Revelations",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/5/51/ACR_Boxart.jpg/revision/latest/scale-to-width-down/350?cb=20110703195808",
+        "developer": "Ubisoft Montreal",
+        "platforms": [
+            "PlayStation 3",
+            "Xbox 360",
+            "Microsoft Windows",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "title": "Assassin's Creed III",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/e/ec/Assassin%27s_Creed_III_Cover.jpg/revision/latest/scale-to-width-down/350?cb=20120812182759",
+        "developer": "Ubisoft Montreal",
+        "platforms": [
+            "PlayStation 3",
+            "Xbox 360",
+            "Wii U",
+            "Microsoft Windows",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "title": "Assassin's Creed IV: Black Flag",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/6/6d/Assassin%27s_Creed_IV_Black_Flag.jpg/revision/latest/scale-to-width-down/350?cb=20130904164224",
+        "developer": "Ubisoft Montreal",
+        "platforms": [
+            "PlayStation 3",
+            "Xbox 360",
+            "Wii U",
+            "PlayStation 4",
+            "Microsoft Windows",
+            "Xbox One",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "title": "Assassin's Creed: Rogue",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/e/e5/Assassin%27s_Creed_Rogue_-_Cover_Art.jpeg/revision/latest/scale-to-width-down/350?cb=20140809155555",
+        "developer": "Ubisoft Sofia",
+        "platforms": [
+            "PlayStation 3",
+            "Xbox 360",
+            "Microsoft Windows",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch"
+        ]
+    },
+    {
+        "title": "Assassin's Creed: Unity",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/0/0b/Assassin%27s_Creed_Unity_Cover.jpg/revision/latest/scale-to-width-down/350?cb=20140610082722",
+        "developer": "Ubisoft Montreal",
+        "platforms": [
+            "Microsoft Windows",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "title": "Assassin's Creed: Syndicate",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/c/c2/ACS_Box_art_icon.jpg/revision/latest/scale-to-width-down/350?cb=20150512162954",
+        "developer": "Ubisoft Quebec",
+        "platforms": [
+            "PlayStation 4",
+            "Xbox One",
+            "Microsoft Windows"
+        ]
+    },
+    {
+        "title": "Assassin's Creed: Origins",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/2/2f/ACOrigins_cover.jpg/revision/latest/scale-to-width-down/350?cb=20200127122455",
+        "developer": "Ubisoft Montreal",
+        "platforms": [
+            "Microsoft Windows",
+            "PlayStation 4",
+            "Xbox One"
+        ]
+    },
+    {
+        "title": "Assassin's Creed: Odyssey",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/f/f5/Assassin%27s_Creed_Odyssey.jpg/revision/latest/scale-to-width-down/333?cb=20191102035347",
+        "developer": "Ubisoft Québec[note 1]",
+        "platforms": [
+            "Microsoft Windows",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch (JP only)",
+            "Stadia"
+        ]
+    },
+    {
+        "title": "Assassin's Creed: Valhalla",
+        "posterLink": "https://static.wikia.nocookie.net/assassinscreed/images/6/65/AC_Valhalla_cover.jpg/revision/latest/scale-to-width-down/333?cb=20200430195147",
+        "developer": "Ubisoft Montreal",
+        "platforms": [
+            "Microsoft Windows",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X/S",
+            "Google Stadia"
+        ]
+    }
+]
